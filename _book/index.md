@@ -1,0 +1,49 @@
+--- 
+title: "西埠村人生计与文化记录手册"
+author: 
+  - 邓剑媚
+  - 庄礼凤
+  - 何小婷
+  - 翁洁云
+  - 梁燕微
+  - 方静
+  - 黄国政
+date: "2024-02-03"
+site: bookdown::bookdown_site
+documentclass: elegantbook
+bibliography: 
+ - book.bib
+colorlinks: true
+link-citations: true
+mathspec: true
+graphics: true
+lot: true
+lof: true
+github-repo: XiangyunHuang/ElegantBookdown
+classoption: 
+ - lang=cn
+ - titlestyle=hang
+ - chinesefont=ctexfont
+description: "这是我们对西埠村文化现象记录的共同成果。"
+---
+
+\mainmatter
+
+# 前言 {-}
+
+这是我用基于`RBookdown`的`Elegantbookdown`将黑石屿收集的文字信息整理成的一本小册子，主要分为三部分，分别是：
+
+1. 村民神明信仰
+2. 渔民海上故事
+3. 渔业生产方式
+
+本册子内容主要包括渔村观察记录、描述与村民个人口述故事，旨在为黑石屿团队探索可持续渔村发展的方向提供参考，同时尝试为读者提供了解西埠渔村的资料。
+
+具体分工情况：渔民海上故事主要由邓剑媚和方静收集，渔业生产模式版块主要由庄礼凤与黄国政收集，神明信仰状况版块主要由梁燕徽、何小婷、翁洁云与黄国政收集。最后，邓剑媚与庄礼凤统筹全册内容，黄国政整理文字材料并将其转化为网页书籍。
+
+这是黑石屿伙伴对硇洲岛西埠村文化现象记录的共同成果。
+
+<br>
+
+\BeginKnitrBlock{flushright}<p class="flushright">黄国政  
+于 黑石屿</p>\EndKnitrBlock{flushright}
